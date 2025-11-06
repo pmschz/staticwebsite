@@ -3,7 +3,7 @@
 Welcome to my personal website repository! This site showcases my portfolio, projects, and achievements in the field of computer science and software development.
 
 ## About Me
-I am a junior undergraduate computer science student at UNT with a passion for systems programming, game development, and blockchain technologies. I'm also actively building projects and contributing to open-source communities.
+I am a senior undergraduate computer science student at UNT with a passion for systems programming, game development, and blockchain technologies. I'm also actively building projects and contributing to open-source communities.
 
 ## Features
 - Portfolio showcasing my projects and achievements
